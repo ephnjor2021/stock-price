@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/NJOROGEEPHRAIM
+    url: https://twitter.com/NJOROGEEPHRAIM
   - title: facebook
     url: https://web.facebook.com/ephraim.njoroge1
   - title: linkedin
@@ -56,7 +56,7 @@ address:
   - line: Nairobi, KE
 
 # Credits content
-credits: 'Real Time Price Tracker was created by <a href="http://startbootstrap.com">Ephraim Gathoni</a>.'
+credits: 'Real Time Price Tracker was created by <a href="https://twitter.com/NJOROGEEPHRAIM">Ephraim Gathoni</a>.'
 
 # Build settings
 markdown: kramdown
